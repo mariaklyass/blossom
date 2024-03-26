@@ -1,4 +1,4 @@
-![hero](https://github.com/mariaklyass/blossom/assets/110608602/6664e593-7fa5-41a1-b001-9cc7c5fbfe0c)This is a React/Next.js/TypeScript project styled with TailwindCSS.
+This is a React/Next.js/TypeScript project styled with TailwindCSS.
 The data is stored in Contentful and handled via Apollo (with help of Hasura as GraphQL playground during development).
 The overall structure is sharp & clean: lots of styling is abstracted away in custom UI-kit (links, buttons, inputs, etc.), and logic - in hooks, util functions and separate components.
 
